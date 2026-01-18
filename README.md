@@ -12,7 +12,7 @@ Snake game with challenging levels (Inspired by the classic "Snake Xenxia" in ol
 2. A font supporting unicode symbols for legacy computing supplement: block octant characters (most fonts do support these characters).
 
 ## Compiling
-'''gcc ./*.c -O2 -ltermkey -o snake'''
+``gcc ./*.c -O2 -ltermkey -o snake``
 
 ## Algorithm
 1. Two arrays z and p of length equal to number grid cells.
