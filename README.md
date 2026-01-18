@@ -22,3 +22,4 @@ Snake game with challenging levels (Inspired by the classic "Snake Xenxia" in ol
 5. The rest of the arrays store the snake's body as index based sort of linked lists.
 This enables O(1) operations and one less data-structure for storing the snake's body.
 
+![Put head](Pictures/put_head.png)
