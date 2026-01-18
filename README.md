@@ -1,5 +1,5 @@
 # HungrySnake
-Snake game with challenging levels (Inspired by the classic "Snake Xenxia" in old nokia phones) and optimized algorithm (bijective map) written in C.
+Terminal based snake game with challenging levels (Inspired by the classic "Snake Xenxia" in old nokia phones) and optimized algorithm (bijective map) written in C.
 
 ## Features:
 1. 9 challenging maps.
