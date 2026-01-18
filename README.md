@@ -23,10 +23,10 @@ Snake game with challenging levels (Inspired by the classic "Snake Xenxia" in ol
 This enables O(1) operations and one less data-structure for storing the snake's body.
 
 This image shows how to put a new head
-![Put head](Pictures/put_head.png)
+[Put head](Pictures/put_head.png)
 
 This image shows how to cut the tail
-![Cut tail](Pictures/cut_tail.png)
+[Cut tail](Pictures/cut_tail.png)
 
 ## Screenshots
 (Pictures/level1.png)
