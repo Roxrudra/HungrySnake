@@ -1,5 +1,5 @@
 # HungrySnake
-Snake game with challenging levels (Inspired by the classic "Snake Xenxia" in old nokia phones) written in C.
+Snake game with challenging levels (Inspired by the classic "Snake Xenxia" in old nokia phones) and optimized algorithm (bijective map) written in C.
 
 ## Features:
 1. 9 challenging maps.
@@ -19,7 +19,7 @@ Snake game with challenging levels (Inspired by the classic "Snake Xenxia" in ol
 2. Integer nz tracks the number of empty cells.
 3. z stores positions of empty cells upto index nz-1. p[i] stores where i can be found in z.
 4. For i < nz, there is a bijective mapping of position between z and p i.e. p[z[i]] = i.
-5. The rest of the arrays store the snake's body as index based sort of linked lists.
+5. The rest of the arrays store the snake's body as index based linked lists (sort of).
 This enables O(1) operations and one less data-structure for storing the snake's body.
 
 This image shows how to put a new head
