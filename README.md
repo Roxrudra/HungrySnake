@@ -4,7 +4,7 @@ Terminal based snake game with challenging levels (Inspired by the classic "Snak
 ## Features:
 1. 9 challenging maps.
 2. Unicode characters used to make the snake appear as a continuous connected path instead of a blob.
-3. Efficient algorithm: movement, collision check, random food are all O(1).
+3. Efficient algorithm: O(1) movement, O(1) collision check and O(1) random food.
 4. Memory efficient and no heap allocations.
 
 ## Dependencies
