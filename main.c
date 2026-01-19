@@ -365,6 +365,8 @@ int main()
 
     bool running = true ;
 
+    srand(time(NULL)) ;
+
     init_terminal() ;
     start_game() ;
 
